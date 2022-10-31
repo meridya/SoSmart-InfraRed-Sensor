@@ -34,7 +34,7 @@ Bu döküman Kızılötesi Alıcı Sensör Kart'ının tanımını ve çalışma
 ### 6. Devre
 ![circuit](Images/IR_Reciver.png)
 
-Sch File [MotorDriver](Circuit/IR_Reciver.pdf) 
+Sch File [IRModule](Circuit/IR_Reciver.pdf) 
 
 Bom List [BomList](Circuit/IR_Reciver_BomList.pdf) 
 
