@@ -33,9 +33,9 @@ Bu döküman Kızılötesi Verici Sensör Kart'ının tanımını ve çalışma 
 ### 6. Devre
 ![circuit](Images/IR_Tranciver.png)
 
-Sch File [MotorDriver](Circuit/IR_Tranciver.pdf) 
+Sch File [IRModule](Circuit/IR_Tranciver.pdf) 
 
-Bom List [BomList](Circuit/IR_Tranciver_BomList.pdf) 
+Bom List [BomList](Circuit/IR_Tranciver-BomList.pdf) 
 
 Gerber File [Gerber](Circuit/IR_Tranciver_Gerber.zip)
 
